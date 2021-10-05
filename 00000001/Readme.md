@@ -1,0 +1,1 @@
+Função Max_Lista(L) que devolve o máximo dos elementos de uma lista L.

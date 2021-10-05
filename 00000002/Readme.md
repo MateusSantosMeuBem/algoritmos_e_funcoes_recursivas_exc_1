@@ -1,0 +1,1 @@
+Idem Min_Lista(L) para o mínimo.

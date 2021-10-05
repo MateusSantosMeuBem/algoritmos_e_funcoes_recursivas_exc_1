@@ -1,0 +1,1 @@
+Função Inverte_Lista(L) que devolve a lista L invertida.

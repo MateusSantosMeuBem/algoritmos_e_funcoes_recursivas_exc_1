@@ -1,0 +1,1 @@
+Função Fibonacci(n). Recebe n > 1 e devolve o n-ésimo número da sequência de Fibonacci.
